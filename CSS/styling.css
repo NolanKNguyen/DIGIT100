@@ -35,6 +35,10 @@ ul.nodot {
 }
 
 header.resume {
-	padding-top: 5%;
+	padding-top: 15%;
 	text-align: center;
+}
+
+td.right {
+	padding-left: 25;
 }
